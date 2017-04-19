@@ -15,7 +15,7 @@ lists in Python, except that every thing inside an array must be of the
 same type, like int or float.
 '''
 # Change False to True to see Numpy arrays in action
-if True:
+if False:
     array = np.array([1, 4, 5, 8], float)
     print(array)
     print("")
@@ -27,7 +27,7 @@ You can index, slice, and manipulate a Numpy array much like you would with a
 a Python list.
 '''
 # Change False to True to see array indexing and slicing in action
-if False:
+if True:
     array = np.array([1, 4, 5, 8], float)
     print (array)
     print("")
